@@ -1,0 +1,104 @@
+.route-search-container {
+  padding: 20px;
+  margin: 0 auto;
+  max-width: 600px;
+  text-align: center;
+  background-color: #f9f9f9;
+  border-radius: 8px;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+}
+
+.search-input {
+  width: 100%;
+  padding: 10px;
+  margin: 10px 0;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+}
+
+.route-results {
+  margin-top: 20px;
+}
+
+.route-item {
+  background-color: #fff;
+  padding: 10px;
+  margin: 5px 0;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  cursor: pointer;
+}
+
+.no-results {
+  color: #888;
+  font-style: italic;
+}
+/* Styles for Live Bus Tracking Section */
+.live-bus-tracking {
+  margin: 2rem 0;
+  padding: 1rem;
+  background-color: #f0f8ff;
+  border-radius: 8px;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
+
+.live-bus-tracking h2 {
+  color: #007bff;
+}
+
+/* Styles for Real-Time Arrival Information Section */
+.arrival-info {
+  margin: 2rem 0;
+  padding: 1rem;
+  background-color: #e6f7ff;
+  border-radius: 8px;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
+
+.arrival-info h2 {
+  color: #007bff;
+}
+
+/* Styles for User Feedback and Ratings Section */
+.user-feedback {
+  margin: 2rem 0;
+  padding: 1rem;
+  background-color: #fff3cd;
+  border-radius: 8px;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
+
+.user-feedback h2 {
+  color: #856404;
+}
+
+.user-feedback form {
+  margin-bottom: 1rem;
+}
+
+/* Styles for Social Media Feed Section */
+.social-media-feed {
+  margin: 2rem 0;
+  padding: 1rem;
+  background-color: #d1ecf1;
+  border-radius: 8px;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
+
+.social-media-feed h2 {
+  color: #0c5460;
+}
+
+/* Styles for Weather Updates Section */
+.weather-updates {
+  margin: 2rem 0;
+  padding: 1rem;
+  background-color: #d4edda;
+  border-radius: 8px;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
+
+.weather-updates h2 {
+  color: #155724;
+}

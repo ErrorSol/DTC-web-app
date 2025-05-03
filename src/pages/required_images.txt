@@ -1,0 +1,14 @@
+Required Images:
+1. ../assets/bus-icon.png
+6. ./delhi-bus.jpg
+7. ./lotus-temple.jpg
+8. ./qutub-minar.jpg
+9. ./red-fort.jpg
+10. ./akshardham.jpg
+11. ./cp.jpg
+12. ./dargah.jpg
+13. ./humayus-tomb.jpg
+14. ./lodhi-garden.jpg
+15. ./purana-quila.jpg
+
+Total image places: 11
